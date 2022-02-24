@@ -1,2 +1,2 @@
 # vue-booksearch-app
-Created with CodeSandbox
+BookSearch App using Vue.js and ElasticSearch
